@@ -1,0 +1,12 @@
+{
+  "name": "rvasiliy/test-library",
+  "description": "Test composer library",
+  "authors": [
+    {
+      "name": "Repkin Vasiliy",
+      "email": "repkinvasiliy@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
