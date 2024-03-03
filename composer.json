@@ -1,6 +1,7 @@
 {
   "name": "rvasiliy/test-library",
   "description": "Test composer library",
+  "type": "library",
   "authors": [
     {
       "name": "Repkin Vasiliy",
